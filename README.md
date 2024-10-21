@@ -1,4 +1,5 @@
-"C:\Users\User\Desktop\bCba3-cohorts-coverwaxykGQD.png"
+https://github.com/MerveDemirden/Gelecek-Hayalim-W-Code-Veri-Bilimi-Atolyesi/blob/main/bCba3-cohorts-coverwaxykGQD.png?raw=true
+
 - Gelecek hayalim, W Code Veri Atölyesi -
 
 Bu atölye, Ford Otosan tarafından kadınların teknoloji ve inovasyon alanlarındaki gelişimini desteklemek amacıyla hayata geçirilmiş olup, Vehbi Koç Vakfı desteği ve Mikado Sustainable Development Consulting iş birliğiyle yürütülen bir toplumsal yatırım projesi sayesinde gerçekleştirilmiştir.
