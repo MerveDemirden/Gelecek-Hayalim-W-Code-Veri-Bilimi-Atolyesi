@@ -1,4 +1,4 @@
-<img src="bCba3-cohorts-coverwaxykGQD.png" alt="W Code Veri Atölyesi" width="500"/>
+<img src="bCba3-cohorts-coverwaxykGQD.png" alt="W Code Veri Atölyesi" width="800"/>
 
 - Gelecek hayalim, W Code Veri Atölyesi -
 
