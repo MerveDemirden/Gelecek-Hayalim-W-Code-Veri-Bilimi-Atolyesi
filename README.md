@@ -1,3 +1,7 @@
+"C:\Users\User\Desktop\bCba3-cohorts-coverwaxykGQD.png"
+- Gelecek hayalim, W Code Veri Atölyesi -
+
+Bu atölye, Ford Otosan tarafından kadınların teknoloji ve inovasyon alanlarındaki gelişimini desteklemek amacıyla hayata geçirilmiş olup, Vehbi Koç Vakfı desteği ve Mikado Sustainable Development Consulting iş birliğiyle yürütülen bir toplumsal yatırım projesi sayesinde gerçekleştirilmiştir.
 # Teknolojide Toplumsal Cinsiyet Eşitliği (TEMA)
 
 ## Proje Başlığı
@@ -24,4 +28,3 @@ Veri bilimi süreci şu adımlardan oluşmuştur:
 ## Sonuç
 Proje, cinsiyetler arasındaki maaş farklılıklarını daha iyi anlamak için değerli bir kaynak sunmaktadır. STEM alanında cinsiyetlere dair elde edilen bulgular, toplumsal cinsiyet eşitliği konusundaki farkındalığı artırmaya yönelik önemli bilgiler içermektedir.
 
-Gelecek hayalim, W Code Veri Atölyesi. Bu atölye, Ford Otosan tarafından kadınların teknoloji ve inovasyon alanlarındaki gelişimini desteklemek amacıyla hayata geçirilmiş olup, Vehbi Koç Vakfı desteği ve Mikado Sustainable Development Consulting iş birliğiyle yürütülen bir toplumsal yatırım projesi sayesinde gerçekleştirilmiştir.
