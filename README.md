@@ -1,4 +1,4 @@
-https://github.com/MerveDemirden/Gelecek-Hayalim-W-Code-Veri-Bilimi-Atolyesi/blob/main/bCba3-cohorts-coverwaxykGQD.png?raw=true
+(bCba3-cohorts-coverwaxykGQD.png)
 
 - Gelecek hayalim, W Code Veri Atölyesi -
 
