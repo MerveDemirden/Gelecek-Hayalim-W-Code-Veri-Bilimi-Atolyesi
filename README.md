@@ -1,3 +1,5 @@
+![W Code Veri Atölyesi](path/to/IMG_5309.jpeg)
+
 - Gelecek hayalim, W Code Veri Atölyesi -
 
 Bu atölye, Ford Otosan tarafından kadınların teknoloji ve inovasyon alanlarındaki gelişimini desteklemek amacıyla hayata geçirilmiş olup, Vehbi Koç Vakfı desteği ve Mikado Sustainable Development Consulting iş birliğiyle yürütülen bir toplumsal yatırım projesi sayesinde gerçekleştirilmiştir.
