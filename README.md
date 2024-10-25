@@ -1,4 +1,4 @@
-<img src="IMG-20241025-WA0011.jpg" alt="W Code Veri Atölyesi" width="800"/>
+<img src="IMG-20241025-WA0011png" alt="W Code Veri Atölyesi" width="800"/>
 
 - Gelecek hayalim, W Code Veri Atölyesi -
 
