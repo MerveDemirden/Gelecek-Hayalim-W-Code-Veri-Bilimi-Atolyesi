@@ -1,4 +1,4 @@
-![W Code Veri Atölyesi](path/to/IMG_5309.jpeg)
+![IMG_5309](https://github.com/user-attachments/assets/d06007bb-ea7d-4cf9-814a-89e9d39b1fa9)
 
 - Gelecek hayalim, W Code Veri Atölyesi -
 
